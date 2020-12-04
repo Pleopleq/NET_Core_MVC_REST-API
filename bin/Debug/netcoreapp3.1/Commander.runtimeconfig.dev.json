@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/pleq/.dotnet/store/|arch|/|tfm|",
-      "/home/pleq/.nuget/packages"
+      "C:\\Users\\Felix Anducho\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Felix Anducho\\.nuget\\packages"
     ]
   }
 }
